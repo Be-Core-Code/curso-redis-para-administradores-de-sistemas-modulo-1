@@ -8,7 +8,7 @@
 Para ver las diapositivas:
 
 ```bash
-> docker run --rm -p "8000:8000" becorecode/[SLUG DEL CURSO]-modulo-1:latest
+> docker run --rm -p "8000:8000" becorecode/curso-redis-para-administradores-de-sistemas-modulo-1:latest
 ```
 
 Una vez levantado el contenedor, accede con un navegador web a `http://localhost:8000`
