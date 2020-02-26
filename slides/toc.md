@@ -1,6 +1,6 @@
-#### Contenido módulo [MODULO]
+#### Contenido módulo 1
 
-#### [TITULO DEL MODULO]
+#### Instalación
 
 * ...
 
