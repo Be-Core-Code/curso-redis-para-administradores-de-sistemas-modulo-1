@@ -11,5 +11,5 @@ notes:
 Los objetivos de este módulo son:
 
 * Adquirir una visión general de qué es redis
-* Ser capaces de instalar REDIS en diferentes sistemas operativos 
+* Ser capaces de instalar REDIS en Linux y saber qué opciones tenemos en otros sistemas operativos 
 * Saber cuáles son los casos de uso más habituales
