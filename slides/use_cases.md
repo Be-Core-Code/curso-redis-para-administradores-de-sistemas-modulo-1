@@ -9,9 +9,9 @@ Redis empezó siendo una base de datos en memoria... pero ahora se está convirt
 * [RedisTimeSeries](https://oss.redislabs.com/redistimeseries/): estructura de datos para almacenar series temporales
 * [RedisGears](https://oss.redislabs.com/redisgears/overview.html): permite construir un `operations pipe (OPP)`. 
   Básicamente se define una operación que se ejecuta para cada clave en la que el resultado de la clave anterior se pasa
-  como argumento a la operación con la clave actual
-* [Redis Streams](https://redis.io/topics/streams-intro) estructura de datos a la que sólo se le pueden añadir 
-  datos (_append only_). Se utiliza para implementar logs o ingestas de datos que requieren muy baja latencia (IoT)
+  como argumento a la operación con la clave siguiente
+* [RedisStreams](https://redis.io/topics/streams-intro) estructura de datos a la que sólo se le pueden añadir 
+  datos (_append only_)
 
 ^^^^^^
   
