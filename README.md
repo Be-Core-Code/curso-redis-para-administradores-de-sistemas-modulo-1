@@ -2,6 +2,9 @@
 
 ## Índice
 
+* Instalación en Windows, Linux y OS-X
+* ¿Qué es Redis?
+* Casos de uso
 
 ## Visualización
 
